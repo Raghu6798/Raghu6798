@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=35\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=800\&lines=%F0%9F%91%8B+Hi+I'm+Raghu+Nandan+Erukulla!+Developer;LLMs+I+am+an+LLMs+Systems+Architect;Full+Stack+Developer;AI+Integration+Expert)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=35\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=800\&lines=%F0%9F%91%8B+Hi+I'm+Raghu+Nandan+Erukulla!;LLMs+I+am+an+LLMs+Systems+Architect;Full+Stack+Developer;AI+Integration+Expert)
 
 </div>
 
