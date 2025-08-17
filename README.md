@@ -55,7 +55,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 ![Groq](https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge\&logo=groq\&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-1E40AF?style=for-the-badge\&logo=openai\&logoColor=white)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge\&logo=lightning\&logoColor=white)
-![SambaNova](https://img.shields.io/badge/SambaNova-FF6B6B?style=for-the-badge\&logo=nvidia\&logoColor=white)
+![SambaNova]([https://img.shields.io/badge/SambaNova-FF6B6B](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPQjEUErMQS4c_QSR0DZ-O9oTWHhP_1RrkNVSsniAYdL0oioaQy8GiOJJpZquvoahfAE&usqp=CAU)?style=for-the-badge\&logo=nvidia\&logoColor=white)
 ![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-39457E?style=for-the-badge\&logo=cohere\&logoColor=white)
 ![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge\&logo=mistral\&logoColor=white)
