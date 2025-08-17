@@ -1,3 +1,13 @@
+Of course, my apologies for the misunderstanding. I have now added the image as you requested and also fixed the formatting for the SambaNova entry within the "LLM Providers & Inference" section.
+
+Here is the updated README.md:
+
+code
+Markdown
+download
+content_copy
+expand_less
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=35\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=800\&lines=%F0%9F%91%8B+Hi+I'm+Raghu+Nandan+Erukulla!;I+am+an+LLMs+Systems+Architect;Full+Stack+Developer;Multi-faceted+Skillset)
@@ -28,6 +38,20 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 ---
 
 ## 🛠️ Tech Stack & Expertise
+
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg"> </a>
+<a href="https://sambanova.ai/"> <img width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPQjEUErMQS4c_QSR0DZ-O9oTWHhP_1RrkNVSsniAYdL0oioaQy8GiOJJpZquvoahfAE&usqp=CAU"> </a>
 
 <details open>
 <summary><h3>🤖 Machine Learning & Data Science</h3></summary>
@@ -60,7 +84,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 ![Groq](https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge\&logo=groq\&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-1E40AF?style=for-the-badge\&logo=openai\&logoColor=white)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge\&logo=lightning\&logoColor=white)
-![SambaNova]([https://img.shields.io/badge/SambaNova-FF6B6B](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPQjEUErMQS4c_QSR0DZ-O9oTWHhP_1RrkNVSsniAYdL0oioaQy8GiOJJpZquvoahfAE&usqp=CAU)?style=for-the-badge\&logo=nvidia\&logoColor=white)
+![SambaNova](https://img.shields.io/badge/SambaNova-FF6B6B?style=for-the-badge\&logo=samba-nova\&logoColor=white)
 ![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-39457E?style=for-the-badge\&logo=cohere\&logoColor=white)
 ![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge\&logo=mistral\&logoColor=white)
@@ -180,59 +204,62 @@ mindmap
       LLM Providers
       Vector Databases
       RAG Systems
+</div>
+
+🔥 What I'm Working On:
+
+🤖 Intelligent Code Assistants - Building AI agents that understand and enhance developer workflows
+
+🔄 Multi-Agent Systems - Creating collaborative AI systems for complex problem-solving
+
+📚 RAG Applications - Developing retrieval-augmented generation systems for enterprise knowledge management
+
+🛠️ Developer Tools - Creating tools that integrate AI seamlessly into development processes
+
+🤝 Let's Collaborate!
+💡 Open to collaborating on:
+
+Full Stack & Gen AI Projects
+
+Agentic AI Systems
+
+Developer Tool Integration
+
+AI-Powered Applications
+
+</div>
+
+📫 Connect With Me
+
+![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+![alt text](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
+
+![alt text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+![alt text](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+</div>
+
+⚡ Fun Fact
+
+🧩 I have a knack for solving complex challenging problems
+
+"Every complex problem is just a series of simple solutions waiting to be discovered"
+
+</div>
+
+🙏 Thanks for visiting my profile!
+
+![alt text](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff)
+
+</div>
+
+
+<i>⭐ From <a href="https://github.com/raghunandarukulla">raghunandarukulla</a> with ❤️</i>
+
+</div>
 ```
-
-</div>
-
-### 🔥 What I'm Working On:
-
-* 🤖 **Intelligent Code Assistants** - Building AI agents that understand and enhance developer workflows
-* 🔄 **Multi-Agent Systems** - Creating collaborative AI systems for complex problem-solving
-* 📚 **RAG Applications** - Developing retrieval-augmented generation systems for enterprise knowledge management
-* 🛠️ **Developer Tools** - Creating tools that integrate AI seamlessly into development processes
-
----
-
-## 🤝 Let's Collaborate!
-
-### 💡 Open to collaborating on:
-
-* **Full Stack & Gen AI Projects**
-* **Agentic AI Systems**
-* **Developer Tool Integration**
-* **AI-Powered Applications**
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/raghunandarukulla)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/raghunandarukulla)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/raghunandarukulla)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:raghunandarukulla@gmail.com)
-
-</div>
-
----
-
-## ⚡ Fun Fact
-
-**🧩 I have a knack for solving complex challenging problems**
-
-*"Every complex problem is just a series of simple solutions waiting to be discovered"*
-
-</div>
-
----
-
-### 🙏 Thanks for visiting my profile!
-
-![Profile Footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=100\&section=footer\&text=Happy%20Coding!\&fontSize=16\&fontColor=fff)
-
-</div>
-
----
-  <i>⭐ From <a href="https://github.com/raghunandarukulla">raghunandarukulla</a> with ❤️</i>
-</div>
