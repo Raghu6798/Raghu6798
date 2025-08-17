@@ -15,7 +15,31 @@
 
 **Agentic AI Integration with Developer Workflows**
 
+Building intelligent systems that seamlessly integrate AI agents into development processes, enhancing productivity and automati<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td align="left">
+      <h2>About me</h2>
+    </td>
+  </tr>
+</table>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px"></picture>
+
+<br><br>
+
+### 🎯 Current Focus
+
+**Agentic AI Integration with Developer Workflows**
+
 Building intelligent systems that seamlessly integrate AI agents into development processes, enhancing productivity and automating complex workflows.
+
+</div>ng complex workflows.
 
 </div>
 
