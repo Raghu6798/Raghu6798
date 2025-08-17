@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center">
+
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -43,7 +43,6 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <details open>
 <summary><h3>🤖 Machine Learning & Data Science</h3></summary>
 
-<div align="center">
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
@@ -57,7 +56,6 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <details open>
 <summary><h3>🧠 Deep Learning</h3></summary>
 
-<div align="center">
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge\&logo=Keras\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
@@ -68,7 +66,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <details open>
 <summary><h3>🤖 LLM Providers & Inference</h3></summary>
 
-<div align="center">
+
 
 ![Groq](https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge\&logo=groq\&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-1E40AF?style=for-the-badge\&logo=openai\&logoColor=white)
@@ -85,8 +83,6 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <details open>
 <summary><h3>🎨 Generative AI</h3></summary>
 
-<div align="center">
-
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=for-the-badge\&logo=stability-ai\&logoColor=white)
 ![DALL-E](https://img.shields.io/badge/DALL--E-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Midjourney](https://img.shields.io/badge/Midjourney-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
@@ -98,7 +94,6 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <details open>
 <summary><h3>🔗 Protocols & APIs</h3></summary>
 
-<div align="center">
 
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-E10098?style=for-the-badge\&logo=protocol\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge\&logo=api\&logoColor=white)
@@ -109,8 +104,6 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <details open>
 <summary><h3>⚡ Backend Technologies</h3></summary>
-
-<div align="center">
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
@@ -125,8 +118,6 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 #### Vector Databases
 
-<div align="center">
-
 ![Pinecone](https://img.shields.io/badge/Pinecone-7C3AED?style=for-the-badge\&logo=pinecone\&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-FA4D56?style=for-the-badge\&logo=weaviate\&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge\&logo=chroma\&logoColor=white)
@@ -136,15 +127,11 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 #### Graph Databases
 
-<div align="center">
-
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge\&logo=neo4j\&logoColor=white)
 
 </div>
 
 #### SQL Databases
-
-<div align="center">
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -154,8 +141,6 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 #### NoSQL Databases
 
-<div align="center">
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
 
@@ -164,8 +149,6 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <details open>
 <summary><h3>🤖 Agentic AI Frameworks</h3></summary>
-
-<div align="center">
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-F5A623?style=for-the-badge\&logo=langchain\&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-4F46E5?style=for-the-badge\&logo=crew\&logoColor=white)
@@ -180,14 +163,10 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghunandarukulla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghunandarukulla&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
-
-<div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghunandarukulla\&theme=tokyonight)
 
@@ -196,8 +175,6 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 ---
 
 ## 🎯 Current Projects & Focus Areas
-
-<div align="center">
 
 ```mermaid
 mindmap
@@ -229,8 +206,6 @@ mindmap
 
 ## 🤝 Let's Collaborate!
 
-<div align="center">
-
 ### 💡 Open to collaborating on:
 
 * **Full Stack & Gen AI Projects**
@@ -244,8 +219,6 @@ mindmap
 
 ## 📫 Connect With Me
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/raghunandarukulla)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/raghunandarukulla)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/raghunandarukulla)
@@ -257,8 +230,6 @@ mindmap
 
 ## ⚡ Fun Fact
 
-<div align="center">
-
 **🧩 I have a knack for solving complex challenging problems**
 
 *"Every complex problem is just a series of simple solutions waiting to be discovered"*
@@ -267,8 +238,6 @@ mindmap
 
 ---
 
-<div align="center">
-
 ### 🙏 Thanks for visiting my profile!
 
 ![Profile Footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=100\&section=footer\&text=Happy%20Coding!\&fontSize=16\&fontColor=fff)
@@ -276,7 +245,5 @@ mindmap
 </div>
 
 ---
-
-<div align="center">
   <i>⭐ From <a href="https://github.com/raghunandarukulla">raghunandarukulla</a> with ❤️</i>
 </div>
