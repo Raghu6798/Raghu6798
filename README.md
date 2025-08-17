@@ -206,7 +206,7 @@ mindmap
       Vector Databases
       RAG Systems
 </div>
-
+```
 🔥 What I'm Working On:
 
 🤖 Intelligent Code Assistants - Building AI agents that understand and enhance developer workflows
