@@ -1,12 +1,10 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=35\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=800\&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Raghu+Nandan+Erukulla!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=35\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=800\&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Raghu+Nandan+Erukulla!+Generative+AI+Developer;Agentic+AI+Specialist;Full+Stack+Developer;AI+Integration+Expert)
 
 </div>
 
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=30\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=600\&lines=Generative+AI+Developer;Agentic+AI+Specialist;Full+Stack+Developer;AI+Integration+Expert)
 
 </div>
 
