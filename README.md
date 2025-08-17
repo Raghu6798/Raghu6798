@@ -1,14 +1,4 @@
-Of course, my apologies for the misunderstanding. I have now added the image as you requested and also fixed the formatting for the SambaNova entry within the "LLM Providers & Inference" section.
 
-Here is the updated README.md:
-
-code
-Markdown
-download
-content_copy
-expand_less
-
-<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=35\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=800\&lines=%F0%9F%91%8B+Hi+I'm+Raghu+Nandan+Erukulla!;I+am+an+LLMs+Systems+Architect;Full+Stack+Developer;Multi-faceted+Skillset)
 
