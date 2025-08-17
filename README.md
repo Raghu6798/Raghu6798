@@ -206,7 +206,7 @@ mindmap
       Vector Databases
       RAG Systems
 </div>
-```
+
 🔥 What I'm Working On:
 
 🤖 Intelligent Code Assistants - Building AI agents that understand and enhance developer workflows
@@ -229,7 +229,7 @@ Developer Tool Integration
 AI-Powered Applications
 
 </div>
-
+```
 📫 Connect With Me
 
 ![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
