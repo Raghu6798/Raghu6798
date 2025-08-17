@@ -265,6 +265,24 @@ AI-Powered Applications
 
 </div>
 
+
+```mermaid
+mindmap
+  root((Agentic AI))
+    Developer Workflows
+      Code Generation
+      Testing Automation
+      Documentation
+    Agent Orchestration
+      Multi-Agent Systems
+      Tool Integration
+      Context Management
+    AI Integration
+      LLM Providers
+      Vector Databases
+      RAG Systems
+```
+
 📫 Connect With Me
 
 ![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
