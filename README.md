@@ -167,7 +167,8 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 
 ## Current Projects & Focus Areas
 
-```
+
+```mermaid
 mindmap
   root((Agentic AI))
     Developer Workflows
