@@ -73,10 +73,10 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <img src="https://cdn.brandfetch.io/id729sSWCY/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1752428038428" alt="Groq Logo" width="100"/>
 
-<img src="https://developer-blogs.nvidia.com/wp-content/uploads/2024/03/nim-inference-microservices-1024x576.png" alt="NVIDIA NIM Logo" width="200"/>
+<img src="https://developer-blogs.nvidia.com/wp-content/uploads/2024/03/nim-inference-microservices-1024x576.png" alt="NVIDIA NIM Logo" width="100"/>
 
-
-
+<img src ="https://cdn.brandfetch.io/idfDTLvPCK/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1683095444290" alt="Cohere Logo" width="100"/>
+<img src = "https://cdn.brandfetch.io/idgEzjThpb/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1748416018275" alt="together AI Logo" width="100"/>
 ![alt text](https://img.shields.io/badge/Cohere-39457E?style=for-the-badge&logo=cohere&logoColor=white)
 
 
