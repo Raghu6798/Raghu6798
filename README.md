@@ -124,9 +124,6 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <summary><h3>🗄️ Database Technologies</h3></summary>
 
 Vector Databases
-
-<img src="https://cdn.brandfetch.io/idqOtVPSZn/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752586787585" alt="crewAI Logo" width="100" height="100">
-
 <img src="https://cdn.brandfetch.io/idZF7NyACs/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1751859560902" alt="crewAI Logo" width="100" height="100" style="object-fit: contain;"/>
 <img src="https://cdn.brandfetch.io/id8U-ebNOv/w/399/h/399/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752658558489" alt="Weaviate Logo" width="100" height="100" style="object-fit: contain;"/>
 <img src="https://vectorseek.com/wp-content/uploads/2023/09/Pinecone-Icon-Logo-Vector.svg-.png" alt="Pinecone Logo" width="100" height="100" style="object-fit: contain;"/>
@@ -142,7 +139,7 @@ Graph Databases
 
 SQL Databases
 
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="crewAI Logo" width="100"/>
 
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
@@ -152,7 +149,7 @@ SQL Databases
 
 NoSQL Databases
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
-
+<img src="https://cdn.brandfetch.io/idqOtVPSZn/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752586787585" alt="crewAI Logo" width="100" height="100">
 <img src = "https://cdn.brandfetch.io/idFEnp00Rl/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1713885680625" alt="crewAI Logo" width="100"/>
 
 </div>
