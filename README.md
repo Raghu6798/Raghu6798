@@ -5,7 +5,8 @@
 </div>
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> </picture><h2>About me</h2>
 I'm driven by a relentless work ethic, constantly pushing to improve despite battling imposter syndrome. Rather than letting self-doubt hold me back, I channel it as fuel for growth, using it to forge my own path and continuously hone my skills. I see every complex problem as a learning opportunity and am motivated by discovering elegant solutions to challenging technical puzzles.
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px"></picture>
+
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width = "250px"></picture>
 
 <br><br>
 
@@ -213,8 +214,7 @@ mindmap
 <a href="https://www.linkedin.com/in/raghu-nandan-82a23b283/">
   <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" width="100"/>
 </a>
-  
-<a href="mailto:courage9605@gmail.com">
+ <a href="mailto:courage9605@gmail.com">
   <img src="https://static.vecteezy.com/system/resources/previews/013/948/544/non_2x/gmail-logo-on-transparent-white-background-free-vector.jpg" 
        alt="Gmail" width="40" height="40">
 </a>
