@@ -86,7 +86,7 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Novita Logo" width="100"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/colab-color.png" alt="Novita Logo" width="100"/>
 <img src="https://github.com/user-attachments/assets/8940fb2b-4648-4628-ab20-37eb38667da6" width="400" />
-<img src="https://mintlify.s3.us-west-1.amazonaws.com/xpanderai-099931d1/logo/logo-dark-mode.png" width="400" />
+<img src="https://mintlify.s3.us-west-1.amazonaws.com/xpanderai-099931d1/logo/logo.png"" width="400" />
 </p>
 
 ## AI  Protocols 
