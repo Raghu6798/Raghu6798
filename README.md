@@ -149,14 +149,13 @@ Vector Databases
 
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
-
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 </div>
 
 Graph Databases
 
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+<img src = "https://cdn.brandfetch.io/idpMxmPV8l/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1667853364625" alt="crewAI Logo" width="100"/>
 
 </div>
 
