@@ -256,16 +256,9 @@ mindmap
        alt="Gmail" width="40" height="40">
 </a>
 
-
-![alt text](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </p>
 </div>
 
-⚡ Fun Fact
-
-🧩 I have a knack for solving complex challenging problems
-
-"Every complex problem is just a series of simple solutions waiting to be discovered"
 
 </div>
 
@@ -276,6 +269,6 @@ mindmap
 </div>
 
 
-<i>⭐ From <a href="https://github.com/raghunandarukulla">raghunandarukulla</a> with ❤️</i>
+
 
 </div>
