@@ -108,6 +108,7 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 
 ### Vector Databases
 <p align="center">
+<img src="https://pim-media.intel.com/pub-api/v1/imageservice/customize?url=https://marketplace.intel.com/file-asset/a5Y3b0000008Ho9EAE_a5b3b0000004f95AAA?.jpg&height=400&width=500" width="100" height="100" style="object-fit: contain;"/>
 <img src="https://cdn.brandfetch.io/idZF7NyACs/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1751859560902" alt="crewAI Logo" width="100" height="100" style="object-fit: contain;"/>
 <img src="https://cdn.brandfetch.io/id8U-ebNOv/w/399/h/399/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752658558489" alt="Weaviate Logo" width="100" height="100" style="object-fit: contain;"/>
 <img src="https://vectorseek.com/wp-content/uploads/2023/09/Pinecone-Icon-Logo-Vector.svg-.png" alt="Pinecone Logo" width="100" height="100" style="object-fit: contain;"/>
