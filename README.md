@@ -108,7 +108,7 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 
 ### Vector Databases
 <p align="center">
-<img src="https://plugins.jetbrains.com/files/17013/169775/icon/default.png" style="object-fit: contain;"/>
+<img src="https://plugins.jetbrains.com/files/17013/169775/icon/default.png" alt="crewAI Logo" width="100" height="100"  style="object-fit: contain;"/>
 <img src="https://cdn.brandfetch.io/idZF7NyACs/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1751859560902" alt="crewAI Logo" width="100" height="100" style="object-fit: contain;"/>
 <img src="https://cdn.brandfetch.io/id8U-ebNOv/w/399/h/399/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752658558489" alt="Weaviate Logo" width="100" height="100" style="object-fit: contain;"/>
 <img src="https://vectorseek.com/wp-content/uploads/2023/09/Pinecone-Icon-Logo-Vector.svg-.png" alt="Pinecone Logo" width="100" height="100" style="object-fit: contain;"/>
