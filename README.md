@@ -112,6 +112,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/copilotkit-color.png" alt="Copilotkit Logo" width="100"/>
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gradio-color.png" alt="Gradio Logo" width="100"/>
 <img src="https://cdn.brandfetch.io/idiyFucwEQ/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668515715588" alt="Streamlit Logo" width="100"/>
+<img src="https://cdn.brandfetch.io/id51HhTTuu/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1755393915660"  alt="chainlit Logo" width="100"/>
 <summary><h3> Backend Technologies</h3></summary>
   
 <img src = "https://cdn.brandfetch.io/idnYlnDpTD/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749029934769" alt="crewAI Logo" width="100"/>
