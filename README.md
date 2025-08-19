@@ -191,7 +191,7 @@ NoSQL Databases
 <summary><h3>🤖 Agentic AI Frameworks</h3></summary>
 
 
-![alt text](https://img.shields.io/badge/LangGraph-F5A623?style=for-the-badge&logo=langchain&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561">
 
 
 ![alt text](https://img.shields.io/badge/CrewAI-4F46E5?style=for-the-badge&logo=crew&logoColor=white)
