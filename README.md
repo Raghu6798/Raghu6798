@@ -15,7 +15,7 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 
 <br><br>
 
-### Tech Stack & Expertise
+# Tech Stack & Expertise
 
 ## Machine Learning & Data Science</h3></summary>
 
@@ -106,7 +106,7 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 
 ## Database Technologies
 
-# Vector Databases
+### Vector Databases
 <p align="center">
 <img src="https://cdn.brandfetch.io/idZF7NyACs/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1751859560902" alt="crewAI Logo" width="100" height="100" style="object-fit: contain;"/>
 <img src="https://cdn.brandfetch.io/id8U-ebNOv/w/399/h/399/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752658558489" alt="Weaviate Logo" width="100" height="100" style="object-fit: contain;"/>
@@ -114,13 +114,13 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 </p>
 </div>
 
-# Graph Databases
+### Graph Databases
 <p align="center">
 <img src = "https://cdn.brandfetch.io/idpMxmPV8l/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1668070789000" alt="crewAI Logo" width="100"/>
 <p>
 </div>
 
-# SQL Databases
+### SQL Databases
 <p align="center">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="crewAI Logo" width="100"/>
 <img src="https://cdn.brandfetch.io/idqOtVPSZn/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752586787585" alt="crewAI Logo" width="100" height="100">
@@ -128,7 +128,7 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 </p>
 </div>
 
-# NoSQL Databases
+### NoSQL Databases
 <p align="center">
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 <img src = "https://cdn.brandfetch.io/idFEnp00Rl/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1713885680625" alt="crewAI Logo" width="100"/>
