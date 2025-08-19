@@ -86,6 +86,8 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <img src = "https://cdn.brandfetch.io/idflcFMP-T/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749761212967" alt="OpenRouter Logo" width="100"/>
 
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/qwen-color.png" alt="Qwen Logo" width="100"/> 
+
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/novita-color.png" alt="Novita Logo" width="100"/>
 </div>
 </details>
 
@@ -106,7 +108,8 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <summary><h3> Frontend </h3></summary>
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/copilotkit-color.png" alt="Copilotkit Logo" width="100"/>
-  
+<img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gradio-color.png" alt="Gradio Logo" width="100"/>
+
 <summary><h3> Backend Technologies</h3></summary>
   
 <img src = "https://cdn.brandfetch.io/idnYlnDpTD/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749029934769" alt="crewAI Logo" width="100"/>
