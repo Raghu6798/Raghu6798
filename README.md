@@ -53,8 +53,8 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <summary><h3>🧠 Deep Learning</h3></summary>
 <p align="center"> 
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+<img src = "https://cdn.brandfetch.io/ideX2Pd1U1/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1667611240675" alt="crewAI Logo" width="100"/>
+<img src = "https://cdn.brandfetch.io/ideUGX-faX/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1748344250105" alt="crewAI Logo" width="100"/>
 </p>
 </div>
 
