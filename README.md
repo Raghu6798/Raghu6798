@@ -141,18 +141,21 @@ NoSQL Databases
 <summary><h3>🤖 Agentic AI Frameworks</h3></summary>
 
 <p align="center">
-<img src = "https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" alt="langchain Logo" width="100"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" alt="langchain Logo" width="100"/>
 
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="crewAI Logo" width="100"/>
 
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="crewAI Logo" width="100"/>
 
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+<img src="https://pbs.twimg.com/profile_images/1884966723746435073/x0p8ngPD_400x400.jpg" alt="crewAI Logo" width="100"/>
 
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" alt="langchain Logo" width="100"/>
 
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" alt="langchain Logo" width="100"/>
 
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mastra.png" alt="crewAI Logo" width="100"/>
+
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/pydanticai-color.png" alt="crewAI Logo" width="100"/>
 
 </p>
 </div>
