@@ -35,7 +35,7 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 
 
 
-<summary><h3>🧠 Deep Learning</h3></summary>
+##  Deep Learning 
 <p align="center"> 
 <img src = "https://cdn.brandfetch.io/ideX2Pd1U1/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1667611240675" alt="crewAI Logo" width="100"/>
 <img src = "https://cdn.brandfetch.io/ideUGX-faX/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1748344250105" alt="crewAI Logo" width="100"/>
@@ -44,7 +44,7 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 
 
 
-<summary><h3>🤖 LLM Providers & Inference</h3></summary>
+## LLM Providers 
 
 <p align="center">
 <img src= "https://cdn.brandfetch.io/idxygbEPCQ/w/201/h/201/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1668515712972" alt="Groq Logo" width="100"/>
@@ -74,7 +74,7 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 
 
 
-<summary><h3>🔗 Protocols & APIs</h3></summary>
+<## AI  Protocols 
 
 <p align="center">
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mcp.png" alt="crewAI Logo" width="100"/>
@@ -88,14 +88,15 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 
 
 
-<summary><h3> Frontend </h3></summary>
+## Frontend </h3> 
 <p align="center">
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/copilotkit-color.png" alt="Copilotkit Logo" width="100"/>
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gradio-color.png" alt="Gradio Logo" width="100"/>
 <img src="https://cdn.brandfetch.io/idiyFucwEQ/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668515715588" alt="Streamlit Logo" width="100"/>
 <img src="https://cdn.brandfetch.io/id51HhTTuu/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1755393915660"  alt="chainlit Logo" width="100"/>
 </p>
-<summary><h3> Backend Technologies</h3></summary>
+
+ ## Backend Technologies
 <p align="center">
 <img src = "https://cdn.brandfetch.io/idnYlnDpTD/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749029934769" alt="crewAI Logo" width="100"/>
 <img src = "https://cdn.brandfetch.io/id7JRtQEAa/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1748370798145" alt="crewAI Logo" width="100"/>
@@ -103,11 +104,9 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 </p>
 </div>
 
+## Database Technologies
 
-
-<summary><h3>🗄 Database Technologies</h3></summary>
-
-Vector Databases
+# Vector Databases
 <p align="center">
 <img src="https://cdn.brandfetch.io/idZF7NyACs/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1751859560902" alt="crewAI Logo" width="100" height="100" style="object-fit: contain;"/>
 <img src="https://cdn.brandfetch.io/id8U-ebNOv/w/399/h/399/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752658558489" alt="Weaviate Logo" width="100" height="100" style="object-fit: contain;"/>
@@ -115,13 +114,13 @@ Vector Databases
 </p>
 </div>
 
-Graph Databases
+# Graph Databases
 <p align="center">
 <img src = "https://cdn.brandfetch.io/idpMxmPV8l/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1668070789000" alt="crewAI Logo" width="100"/>
 <p>
 </div>
 
-SQL Databases
+# SQL Databases
 <p align="center">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="crewAI Logo" width="100"/>
 <img src="https://cdn.brandfetch.io/idqOtVPSZn/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752586787585" alt="crewAI Logo" width="100" height="100">
@@ -129,7 +128,7 @@ SQL Databases
 </p>
 </div>
 
-NoSQL Databases
+# NoSQL Databases
 <p align="center">
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 <img src = "https://cdn.brandfetch.io/idFEnp00Rl/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1713885680625" alt="crewAI Logo" width="100"/>
@@ -137,7 +136,7 @@ NoSQL Databases
 </div>
 
 
-<summary><h3>🤖 Agentic AI Frameworks</h3></summary>
+## Agentic AI Frameworks 
 
 <p align="center">
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="crewAI Logo" width="100"/>
@@ -159,14 +158,14 @@ NoSQL Databases
 
 
 
-📊 GitHub Analytics
+## GitHub Analytics
 
 [![Raghu6798's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghu6798&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raghu6798&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghu6798&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-🎯 Current Projects & Focus Areas
+## Current Projects & Focus Areas
 code
 Mermaid
 download
@@ -189,26 +188,13 @@ mindmap
       RAG Systems
 </div>
 
-🔥 What I'm Working On:
-
-🤖 Intelligent Code Assistants - Building AI agents that understand and enhance developer workflows
-
-🔄 Multi-Agent Systems - Creating collaborative AI systems for complex problem-solving
-
-📚 RAG Applications - Developing retrieval-augmented generation systems for enterprise knowledge management
-
-🛠️ Developer Tools - Creating tools that integrate AI seamlessly into development processes
-
-🤝 Let's Collaborate!
+## 🤝 Let's Collaborate!
 💡 Open to collaborating on:
 
-Full Stack & Gen AI Projects
-
-Agentic AI Systems
-
-Developer Tool Integration
-
-AI-Powered Applications
+1. Full Stack & Gen AI Projects
+2. Agentic AI Systems
+3.Developer Tool Integrations
+4.AI-Powered Applications
 
 </div>
 
