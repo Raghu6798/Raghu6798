@@ -67,7 +67,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 
 
-![alt_text](https://www.google.com/imgres?q=groq%20logo&imgurl=https%3A%2F%2Fcdn.brandfetch.io%2FidxygbEPCQ%2Fw%2F201%2Fh%2F201%2Ftheme%2Fdark%2Ficon.png%3Fc%3D1bxid64Mup7aczewSAYMX%26t%3D1668515712972&imgrefurl=https%3A%2F%2Fbrandfetch.com%2Fgroq.com&docid=e5azkO46zmLpXM&tbnid=78EeFOTl6Iv8uM&vet=12ahUKEwiBk5jtw5aPAxW7xTgGHZMGACYQM3oECBcQAA..i&w=201&h=201&hcb=2&ved=2ahUKEwiBk5jtw5aPAxW7xTgGHZMGACYQM3oECBcQAA)
+![alt_text]([https://www.google.com/imgres?q=groq%20logo&imgurl=https%3A%2F%2Fcdn.brandfetch.io%2FidxygbEPCQ%2Fw%2F201%2Fh%2F201%2Ftheme%2Fdark%2Ficon.png%3Fc%3D1bxid64Mup7aczewSAYMX%26t%3D1668515712972&imgrefurl=https%3A%2F%2Fbrandfetch.com%2Fgroq.com&docid=e5azkO46zmLpXM&tbnid=78EeFOTl6Iv8uM&vet=12ahUKEwiBk5jtw5aPAxW7xTgGHZMGACYQM3oECBcQAA..i&w=201&h=201&hcb=2&ved=2ahUKEwiBk5jtw5aPAxW7xTgGHZMGACYQM3oECBcQAA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevsXkem0ulQSnVZAKCpvYgmQ5hM2jjG1oAHFbV2p5Z9iYZIzccsYijXVoIDy_r74jtK0&usqp=CAU))
 
 ![alt text](https://img.shields.io/badge/OpenRouter-1E40AF?style=for-the-badge&logo=openai&logoColor=white)
 
