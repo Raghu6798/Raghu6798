@@ -81,13 +81,13 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 </div>
 
 ## Development Tools , IDE or ADE (Agent Development Environment)  
-
+<p align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPmNWAtnroI424NFmJBwNtUs6YIL_eVXHjA&s" alt="Novita Logo" width="100"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Novita Logo" width="100"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/colab-color.png" alt="Novita Logo" width="100"/>
 <img src="https://raw.githubusercontent.com/letta-ai/letta/refs/heads/main/assets/Letta-logo-RGB_OffBlackonTransparent_cropped_small.png" alt="Novita Logo" width="100"/>
 <img src="https://sspark.genspark.ai/cfimages?u1=SQ%2FYPN9T7uT%2BVBhA1lgoBYA54y%2FJL%2FpwDda1CflaO%2FA5mDXF3Oyd%2F7lJsBKtVNKzs3sH%2F3S6JRNoRKghh%2FzvsAhpjE%2FZhecKIhDl0J2fzXMlhJZl0Vf%2BEEa%2BvtqaystYf3FjtYyOvedOMK7Mx7e8RB7ffbhVcfErInpYkCDGDl3H1lFGYy8KbbBj5gLj2h38%2F2dE7rNpEcnU1luJi%2B%2FaWtQ4sMBMVOrX9u2oyf977iJ%2Bh3l08vCpHxT8Ww9ZnH%2BDXEstHUHluO2btce6jax6U9T1Pq9lG52kbr2S689ECLIcOktWGsNMxO%2FwwtXifrbdgFQ71T0%3D&u2=bcfwaomg4DRYpKFM&width=1024" alt="Novita Logo" width="100"/>
-
+</p>
 ## AI  Protocols 
 
 <p align="center">
