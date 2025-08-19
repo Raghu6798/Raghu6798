@@ -77,7 +77,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <img src ="https://cdn.brandfetch.io/idfDTLvPCK/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1683095444290" alt="Cohere Logo" width="100"/>
 
-<img src="https://cdn.brandfetch.io/idgEzjThpb/theme/dark/logo.svg?..." alt="Together.ai Logo" width="50" style="filter: invert(1);" />
+<img src="https://cdn.brandfetch.io/idgEzjThpb/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1748416018275" alt="Together.ai Logo" width="50" style="filter: invert(1);" />
 
 
 
