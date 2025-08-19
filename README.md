@@ -35,7 +35,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <summary><h3>🤖 Machine Learning & Data Science</h3></summary>
 
 <p align="center">
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ebI_BU-S2eSgljZenAKvbz605AWTWhNwzA&s"" alt="crewAI Logo" width="100"/>
 
 
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
