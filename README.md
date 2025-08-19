@@ -182,7 +182,6 @@ mindmap
       LLM Providers
       Vector Databases
       RAG Systems
-</div>
 ```
 ## 🤝 Let's Collaborate!
 💡 Open to collaborating on:
