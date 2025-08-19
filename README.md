@@ -174,18 +174,6 @@ NoSQL Databases
 </div>
 
 
-📊 GitHub Analytics
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghunandarukulla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghunandarukulla&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-</div>
-
-
-![alt text](https://github-readme-streak-stats.herokuapp.com/?user=raghunandarukulla&theme=tokyonight)
-
-</div>
-
 
 📊 GitHub Analytics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghunandarukulla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -194,7 +182,7 @@ NoSQL Databases
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Raghu6798)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raghu6798)](https://git.io/streak-stats)
 </div>
 
 🎯 Current Projects & Focus Areas
