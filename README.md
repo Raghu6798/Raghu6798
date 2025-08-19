@@ -94,13 +94,13 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <summary><h3>🔗 Protocols & APIs</h3></summary>
 
-
+<p align="center">
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mcp.png" alt="crewAI Logo" width="100"/>
 
 <img src = "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Agent2Agent-Interoperability.2e16d0ba.fill-1200x600.png" alt="Agent2Agent Logo" width="100"/>
 
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/agui.png" alt="crewAI Logo" width="100"/>
-
+</p>
 </div>
 
 
@@ -116,7 +116,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <img src = "https://cdn.brandfetch.io/idnYlnDpTD/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749029934769" alt="crewAI Logo" width="100"/>
 <img src = "https://cdn.brandfetch.io/id7JRtQEAa/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1748370798145" alt="crewAI Logo" width="100"/>
 <img src = "https://static.cdnlogo.com/logos/f/59/fastapi.svg" alt="crewAI Logo" width="100"/>
-
+</p>
 </div>
 
 
@@ -128,13 +128,13 @@ Vector Databases
 <img src="https://cdn.brandfetch.io/id8U-ebNOv/w/399/h/399/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752658558489" alt="Weaviate Logo" width="100" height="100" style="object-fit: contain;"/>
 <img src="https://vectorseek.com/wp-content/uploads/2023/09/Pinecone-Icon-Logo-Vector.svg-.png" alt="Pinecone Logo" width="100" height="100" style="object-fit: contain;"/>
 
-
+</p>
 </div>
 
 Graph Databases
 
 <img src = "https://cdn.brandfetch.io/idpMxmPV8l/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1668070789000" alt="crewAI Logo" width="100"/>
-
+</p>
 </div>
 
 SQL Databases
@@ -142,13 +142,14 @@ SQL Databases
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="crewAI Logo" width="100"/>
 <img src="https://cdn.brandfetch.io/idqOtVPSZn/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752586787585" alt="crewAI Logo" width="100" height="100">
 <img src = "https://cdn.brandfetch.io/idsSceG8fK/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1668829260323" alt="crewAI Logo" width="100"/>
+</p>
 </div>
 
 NoSQL Databases
 
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 <img src = "https://cdn.brandfetch.io/idFEnp00Rl/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1713885680625" alt="crewAI Logo" width="100"/>
-
+</p>
 </div>
 
 
@@ -168,14 +169,14 @@ NoSQL Databases
 
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
-
+</p>
 </div>
 
 
 📊 GitHub Analytics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghunandarukulla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghunandarukulla&layout=compact&langs_count=8&theme=tokyonight"/>
-
+</p>
 </div>
 
 
@@ -187,12 +188,12 @@ NoSQL Databases
 📊 GitHub Analytics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghunandarukulla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghunandarukulla&layout=compact&langs_count=8&theme=tokyonight"/>
-
+</p>
 </div>
 
 
-![alt text](https://github-readme-streak-stats.herokuapp.com/?user=raghunandarukulla&theme=tokyonight)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+</p>
 </div>
 
 🎯 Current Projects & Focus Areas
