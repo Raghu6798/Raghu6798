@@ -7,7 +7,7 @@
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> </picture><h2>About me</h2>
 As a builder at heart, my passion lies in architecting and creating complete, intelligent AI systems from the ground up. I don't just focus on a single algorithm or model; I immerse myself in the entire creative process—from the initial spark of an idea to building a reliable, user-friendly application that works in the real world.
 
-My approach is to build for the future. I design systems like a set of independent building blocks, making them easier to manage, update, and fix without the whole structure falling apart. I thrive on the challenge of making AI understand complex information from various sources—like documents, images, and videos—and weaving it all together into a seamless, conversational experience. This often culminates in creating smart, autonomous agents that can perform complex tasks on their own, acting as capable assistants that simplify our digital lives.
+My approach is to build for the future. I design systems like a set of independent building blocks, making them easier to manage, update, and fix without the whole structure falling apart. I thrive on the challenge of making AI understand complex information from various sources—like documents, images, and videos—and weaving it all  into a seamless, conversational experience. This often culminates in creating smart, autonomous agents that can perform complex tasks on their own, acting as capable assistants that simplify our digital lives.
 
 This drive for constant improvement is fueled by a relentless work ethic and a constant companion: the invisible monster of Imposter Syndrome. It's a persistent voice that mocks and whispers that there are always others who are far more skilled. But instead of feeling inferior, I've learned to see that voice not as a threat, but as fuel.
 
@@ -68,7 +68,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 
 <img src= "https://cdn.brandfetch.io/idxygbEPCQ/w/201/h/201/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1668515712972" alt="Groq Logo" width="100"/>
-
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/together-color.png" alt="Together AI  Logo" width="100"/>
 <img src= "https://cdn.brandfetch.io/id729sSWCY/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1752428038428" alt="Groq Logo" width="100"/>
 
 <img src= "https://developer-blogs.nvidia.com/wp-content/uploads/2024/03/nim-inference-microservices-1024x576.png" alt="NVIDIA NIM Logo" width="100"/>
@@ -88,6 +88,8 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/qwen-color.png" alt="Qwen Logo" width="100"/> 
 
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/novita-color.png" alt="Novita Logo" width="100"/>
+
+
 </div>
 </details>
 
