@@ -177,12 +177,9 @@ NoSQL Databases
 
 
 📊 GitHub Analytics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghunandarukulla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghunandarukulla&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-</div>
 
-
+[![Raghu6798's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghu6798&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raghu6798&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghu6798&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
