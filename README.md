@@ -95,6 +95,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mcp.png" alt="crewAI Logo" width="100"/>
 <img src = "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Agent2Agent-Interoperability.2e16d0ba.fill-1200x600.png" alt="Agent2Agent Logo" width="100"/>
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/agui.png" alt="crewAI Logo" width="100"/>
+<img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/smithery-color.png' alt="crewAI Logo" width="100"/>
 </p>
 </div>
 
