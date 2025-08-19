@@ -6,7 +6,10 @@
 
 
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> </picture><h2>About me</h2>
-
+As an LLMs Systems Architect, my core focus is on engineering robust, scalable, and efficient end-to-end AI systems. I specialize in designing and building the complete lifecycle of AI-powered applications, from the initial conceptual architecture and data pipeline design to secure deployment and continuous observability.
+My approach is grounded in creating decoupled, services-oriented architectures that enhance resilience and maintainability. For instance, in deploying models like a quantized Qwen server, I separate the LLM inference engine from the business logic using a FastAPI gateway, ensuring the system is robust with built-in resilience patterns like exponential backoff for handling service-to-service communication.
+A significant area of my expertise lies in building sophisticated, full-stack Retrieval-Augmented Generation (RAG) systems. In a project like EduverseAI, a multimodal study companion, I architected a solution that required a polyglot persistence strategy. This involved integrating Vector (Qdrant), Graph (Neo4j), and SQL (Supabase) databases to effectively manage and retrieve information from diverse, unstructured data types including documents, images, and videos. This system was designed for scale from the ground up, utilizing containerization with Docker, orchestration with Kubernetes, and a comprehensive CI/CD pipeline for automated testing and deployment.
+Ultimately, my passion culminates in the development of intelligent, autonomous agents that seamlessly integrate into developer workflows. A prime example is Blitzcoder, a developer assistant I engineered using LangGraph. This project demonstrates my approach to creating stateful agents equipped with a rich toolset for file system interaction, secure code execution within sandboxed environments (E2B), and automated project scaffolding. I thrive on tackling these complex architectural challenges, building practical, secure, and user-centric agentic systems that automate complex tasks and tangibly boost developer productivity.
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px"></picture>
 
 <br><br>
