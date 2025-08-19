@@ -6,8 +6,11 @@
 
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> </picture><h2>About me</h2>
 As a builder at heart, my passion lies in architecting and creating complete, intelligent AI systems from the ground up. I don't just focus on a single algorithm or model; I immerse myself in the entire creative process—from the initial spark of an idea to building a reliable, user-friendly application that works in the real world.
+
 My approach is to build for the future. I design systems like a set of independent building blocks, making them easier to manage, update, and fix without the whole structure falling apart. I thrive on the challenge of making AI understand complex information from various sources—like documents, images, and videos—and weaving it all together into a seamless, conversational experience. This often culminates in creating smart, autonomous agents that can perform complex tasks on their own, acting as capable assistants that simplify our digital lives.
+
 This drive for constant improvement is fueled by a relentless work ethic and a constant companion: the invisible monster of Imposter Syndrome. It's a persistent voice that mocks and whispers that there are always others who are far more skilled. But instead of feeling inferior, I've learned to see that voice not as a threat, but as fuel.
+
 It pushes me to forge my own path, to relentlessly hone my skills, and to embrace the journey of taming that monster day by day. This constant pursuit transforms the fear into a force for growth, shaping me into a more resilient and multifaceted developer. Ultimately, I believe that every complex problem is an opportunity for learning, and I am driven by the process of discovering elegant solutions, one challenge at a time.
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px"></picture>
 
