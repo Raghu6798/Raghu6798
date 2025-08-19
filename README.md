@@ -106,6 +106,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 <img src = "https://cdn.brandfetch.io/idnYlnDpTD/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749029934769" alt="crewAI Logo" width="100"/>
 <img src = "https://cdn.brandfetch.io/id7JRtQEAa/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1748370798145" alt="crewAI Logo" width="100"/>
 <img src = "https://static.cdnlogo.com/logos/f/59/fastapi.svg" alt="crewAI Logo" width="100"/>
+<img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" alt="crewAI Logo" width="100"/>
 </p>
 </div>
 
