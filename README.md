@@ -83,6 +83,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <img src = "https://cdn.brandfetch.io/idR1DDyp8M/w/395/h/395/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1754937941744" alt="LiteLLM Logo" width="100"/>
 
+<img src = "https://cdn.brandfetch.io/idflcFMP-T/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749761212967" alt="OpenRouter Logo" width="100"/>
 </div>
 </details>
 
@@ -125,10 +126,8 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <img src = "https://cdn.brandfetch.io/idnYlnDpTD/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749029934769" alt="crewAI Logo" width="100"/>
 <img src = "https://cdn.brandfetch.io/id7JRtQEAa/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1748370798145" alt="crewAI Logo" width="100"/>
-
-
-
 <img src = "https://static.cdnlogo.com/logos/f/59/fastapi.svg" alt="crewAI Logo" width="100"/>
+
 </div>
 </details>
 
