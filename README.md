@@ -171,7 +171,7 @@ Mermaid
 download
 content_copy
 expand_less
-
+```
 mindmap
   root((Agentic AI))
     Developer Workflows
@@ -187,7 +187,7 @@ mindmap
       Vector Databases
       RAG Systems
 </div>
-
+```
 ## 🤝 Let's Collaborate!
 💡 Open to collaborating on:
 
