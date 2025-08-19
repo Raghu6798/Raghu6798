@@ -166,11 +166,7 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 </div>
 
 ## Current Projects & Focus Areas
-code
-Mermaid
-download
-content_copy
-expand_less
+
 ```
 mindmap
   root((Agentic AI))
@@ -197,24 +193,6 @@ mindmap
 4.AI-Powered Applications
 
 </div>
-
-
-```mermaid
-mindmap
-  root((Agentic AI))
-    Developer Workflows
-      Code Generation
-      Testing Automation
-      Documentation
-    Agent Orchestration
-      Multi-Agent Systems
-      Tool Integration
-      Context Management
-    AI Integration
-      LLM Providers
-      Vector Databases
-      RAG Systems
-```
 
 📫 Connect With Me
 <p align="center">
