@@ -85,6 +85,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <img src = "https://cdn.brandfetch.io/idflcFMP-T/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749761212967" alt="OpenRouter Logo" width="100"/>
 
+<img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/qwen-color.png" alt="Qwen Logo" width="100"/> 
 </div>
 </details>
 
