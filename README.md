@@ -179,6 +179,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 [![Raghu6798's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghu6798&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raghu6798&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghu6798&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Github-Profile](https://github-profile-trophy.vercel.app/?username=Raghu6798&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ## Current Projects & Focus Areas
