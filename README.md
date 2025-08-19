@@ -3,7 +3,6 @@
 ![alt text](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+I'm+Raghu+Nandan+Erukulla!;I+am+an+LLMs+Systems+Architect;Multi-faceted+skillset)
 
 </div>
-
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> </picture><h2>About me</h2>
 As a builder at heart, my passion lies in architecting and creating complete, intelligent AI systems from the ground up. I don't just focus on a single algorithm or model; I immerse myself in the entire creative process—from the initial spark of an idea to building a reliable, user-friendly application that works in the real world.
 
