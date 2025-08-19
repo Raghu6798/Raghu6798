@@ -131,7 +131,7 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 
 ### NoSQL Databases
 <p align="center">
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&s"" alt="crewAI Logo" width="100"/>
 <img src = "https://cdn.brandfetch.io/idFEnp00Rl/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1713885680625" alt="crewAI Logo" width="100"/>
 </p>
 </div>
