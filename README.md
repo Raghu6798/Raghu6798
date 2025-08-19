@@ -1,4 +1,4 @@
-<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width = "300px"></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width = "500px"></picture>
 <div align="center">
 
 ![alt text](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+I'm+Raghu+Nandan+Erukulla!;I+am+an+LLMs+Systems+Architect;Multi-faceted+skillset)
