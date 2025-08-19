@@ -108,10 +108,9 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 
 ### Vector Databases
 <p align="center">
-  <img src="https://cdn.brandfetch.io/idZF7NyACs/theme/dark/logo.svg" alt="crewAI Logo" width="100" height="100" style="object-fit: contain;"/>
-  <img src="https://cdn.brandfetch.io/id8U-ebNOv/w/399/h/399/theme/dark/icon.jpeg" alt="Weaviate Logo" width="100" height="100" style="object-fit: contain;"/>
-  <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2148158644/images/85d1d5-f44-11de-03a0-b8b70657ae6f_pinecone.jpeg" alt="Pinecone Logo" width="100" height="100" style="object-fit: contain;"/>
-  <img src="https://artwork.lfaidata.foundation/projects/milvus/icon/color/milvus-icon-color.png" alt="Milvus Logo" width="100" height="100" style="object-fit: contain;"/>
+<img src="https://cdn.brandfetch.io/idZF7NyACs/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1751859560902" alt="crewAI Logo" width="100" height="100" style="object-fit: contain;"/>
+<img src="https://cdn.brandfetch.io/id8U-ebNOv/w/399/h/399/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752658558489" alt="Weaviate Logo" width="100" height="100" style="object-fit: contain;"/> <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2148158644/images/85d1d5-f44-11de-03a0-b8b70657ae6f_pinecone.jpeg" alt="Pinecone Logo" width="100" height="500" style="object-fit: contain;"/> 
+<img src="https://artwork.lfaidata.foundation/projects/milvus/icon/color/milvus-icon-color.png" alt="Pinecone Logo" width="100" height="100" style="object-fit: contain;"/> 
 </p>
 
 </div>
