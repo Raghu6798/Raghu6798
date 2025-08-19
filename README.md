@@ -134,8 +134,9 @@ Vector Databases
 </div>
 
 Graph Databases
-
+<p align="center">
 <img src = "https://cdn.brandfetch.io/idpMxmPV8l/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1668070789000" alt="crewAI Logo" width="100"/>
+<p>
 </div>
 
 SQL Databases
