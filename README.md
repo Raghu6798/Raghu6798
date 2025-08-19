@@ -73,9 +73,11 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 </div>
 
 ## Embedding Models 
-
+<p align="center"> 
 <img src="https://raw.githubusercontent.com/deepset-ai/haystack-integrations/main/logos/jina.png" alt="Novita Logo" width="100"/>
 <img src="https://sbert.net/_static/logo.png" alt="Novita Logo" width="100"/>
+<img src="https://cohere.com/_next/image?url=https%3A%2F%2Fcohere-ai.ghost.io%2Fcontent%2Fimages%2F2025%2F04%2FEmbed-4_blog_Hero-1.png&w=1200&q=100" alt="Novita Logo" width="100"/>
+</p> 
 ## AI  Protocols 
 
 <p align="center">
