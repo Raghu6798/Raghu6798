@@ -155,7 +155,7 @@ Vector Databases
 
 Graph Databases
 
-<img src = "https://cdn.brandfetch.io/idpMxmPV8l/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1667853364625" alt="crewAI Logo" width="100"/>
+<img src = "https://cdn.brandfetch.io/idpMxmPV8l/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1668070789000" alt="crewAI Logo" width="100"/>
 
 </div>
 
