@@ -189,8 +189,8 @@ mindmap
 
 1. Full Stack & Gen AI Projects
 2. Agentic AI Systems
-3.Developer Tool Integrations
-4.AI-Powered Applications
+3. Developer Tool Integrations
+4. AI-Powered Applications
 
 </div>
 
