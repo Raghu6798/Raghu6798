@@ -81,7 +81,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <img src = "https://cdn.brandfetch.io/idtiX4Hc7r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750938652363" alt="Mistral  Logo" width="100"/>
 
-![alt text](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idR1DDyp8M/w/395/h/395/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1754937941744" alt="LiteLLM Logo" width="100"/>
 
 </div>
 </details>
