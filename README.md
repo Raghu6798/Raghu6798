@@ -79,9 +79,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <img src = "https://cdn.brandfetch.io/id1LHqzgSf/w/256/h/256/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1752039918668" alt="AI21 Logo" width="100"/>
 
-
-![alt text](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
-
+<img src = "https://cdn.brandfetch.io/idtiX4Hc7r/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750938652363" alt="Mistral  Logo" width="100"/>
 
 ![alt text](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
