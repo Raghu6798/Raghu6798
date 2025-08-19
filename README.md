@@ -183,7 +183,7 @@ NoSQL Databases
 </div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raghu6798)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghu6798&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 🎯 Current Projects & Focus Areas
