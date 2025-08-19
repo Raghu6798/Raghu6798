@@ -86,7 +86,7 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Novita Logo" width="100"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/colab-color.png" alt="Novita Logo" width="100"/>
 <img src="https://github.com/user-attachments/assets/8940fb2b-4648-4628-ab20-37eb38667da6" width="400" />
-
+<img src="https://mintlify.s3.us-west-1.amazonaws.com/xpanderai-099931d1/logo/logo-dark-mode.png" width="400" />
 </p>
 
 ## AI  Protocols 
@@ -150,6 +150,13 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 ## Containerization 
 <p align="center">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="crewAI Logo" width="100"/>
+</p>
+
+## Deployment providers  
+<p align="center">
+<img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" alt="crewAI Logo" width="100"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/railway.png" alt="crewAI Logo" width="100"/>
+<img src="https://thereadable.co/wp-content/uploads/2024/11/Render_logo_-_Black.jpg" alt="crewAI Logo" width="100"/>
 </p>
 
 ## Agentic AI Frameworks 
@@ -231,8 +238,5 @@ mindmap
 ![alt text](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff)
 
 </div>
-
-
-
 
 </div>
