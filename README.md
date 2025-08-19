@@ -53,10 +53,8 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <details open>
 <summary><h3>🧠 Deep Learning</h3></summary>
-
-
+  
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
-
 
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
@@ -130,8 +128,7 @@ Vector Databases
 <img src="https://www.thestack.technology/content/images/wp-content/uploads/2022/01/a625b8fe-70f2-4a1f-8413-956647916d60.png" alt="crewAI Logo" width="100"/>
 
 <img src = "https://cdn.brandfetch.io/idZF7NyACs/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1751859560902" alt="crewAI Logo" width="100"/>
-
-
+<img src = "https://cdn.brandfetch.io/id8U-ebNOv/w/399/h/399/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752658558489" alt="Weaviate Logo" width="100"/>
 <img src="https://vectorseek.com/wp-content/uploads/2023/09/Pinecone-Icon-Logo-Vector.svg-.png" alt="crewAI Logo" width="100"/>
 
 <img src = "https://cdn.brandfetch.io/idCLuo1dQ8/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1718349245373" alt="crewAI Logo" width="100"/>
