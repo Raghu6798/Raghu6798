@@ -66,7 +66,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <summary><h3>🤖 LLM Providers & Inference</h3></summary>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="40"/>&nbsp;
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevsXkem0ulQSnVZAKCpvYgmQ5hM2jjG1oAHFbV2p5Z9iYZIzccsYijXVoIDy_r74jtK0&usqp=CAU)" height="40"/>&nbsp;
 
 
 ![alt text](https://img.shields.io/badge/OpenRouter-1E40AF?style=for-the-badge&logo=openai&logoColor=white)
