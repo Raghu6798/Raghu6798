@@ -71,12 +71,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <img src="https://cdn.brandfetch.io/idxygbEPCQ/w/201/h/201/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1668515712972" alt="Groq Logo" width="100"/>
 
-
-![alt text](https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge&logo=lightning&logoColor=white)
-
-
-![alt text]([https://img.shields.io/badge/SambaNova-FF6B6B](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPQjEUErMQS4c_QSR0DZ-O9oTWHhP_1RrkNVSsniAYdL0oioaQy8GiOJJpZquvoahfAE&usqp=CAU)?style=for-the-badge&logo=nvidia&logoColor=white)
-
+<img src="https://cdn.brandfetch.io/id729sSWCY/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1752428038428" alt="Groq Logo" width="100"/>
 
 ![alt text](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
