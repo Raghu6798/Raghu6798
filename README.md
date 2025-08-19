@@ -66,7 +66,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <summary><h3>🤖 LLM Providers & Inference</h3></summary>
 
 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg](https://www.google.com/imgres?q=groq%20logo&imgurl=https%3A%2F%2Fcdn.brandfetch.io%2FidxygbEPCQ%2Fw%2F201%2Fh%2F201%2Ftheme%2Fdark%2Ficon.png%3Fc%3D1bxid64Mup7aczewSAYMX%26t%3D1668515712972&imgrefurl=https%3A%2F%2Fbrandfetch.com%2Fgroq.com&docid=e5azkO46zmLpXM&tbnid=78EeFOTl6Iv8uM&vet=12ahUKEwjk59OqwpaPAxUqS3ADHQPLE3MQM3oECB4QAA..i&w=201&h=201&hcb=2&ved=2ahUKEwjk59OqwpaPAxUqS3ADHQPLE3MQM3oECB4QAA)" height="40"/>&nbsp;
+<img src="https://www.google.com/imgres?q=groq%20logo&imgurl=https%3A%2F%2Fcdn.brandfetch.io%2FidxygbEPCQ%2Fw%2F201%2Fh%2F201%2Ftheme%2Fdark%2Ficon.png%3Fc%3D1bxid64Mup7aczewSAYMX%26t%3D1668515712972&imgrefurl=https%3A%2F%2Fbrandfetch.com%2Fgroq.com&docid=e5azkO46zmLpXM&tbnid=78EeFOTl6Iv8uM&vet=12ahUKEwjk59OqwpaPAxUqS3ADHQPLE3MQM3oECB4QAA..i&w=201&h=201&hcb=2&ved=2ahUKEwjk59OqwpaPAxUqS3ADHQPLE3MQM3oECB4QAA" height="40"/>&nbsp;
 
 
 ![alt text](https://img.shields.io/badge/OpenRouter-1E40AF?style=for-the-badge&logo=openai&logoColor=white)
