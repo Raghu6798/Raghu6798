@@ -86,7 +86,7 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Novita Logo" width="100"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/colab-color.png" alt="Novita Logo" width="100"/>
 <img src="https://raw.githubusercontent.com/letta-ai/letta/refs/heads/main/assets/Letta-logo-RGB_OffBlackonTransparent_cropped_small.png" alt="Novita Logo" width="100"/>
-<img src="https://github.com/user-attachments/assets/8940fb2b-4648-4628-ab20-37eb38667da6" width="200" />
+<img src="https://github.com/user-attachments/assets/8940fb2b-4648-4628-ab20-37eb38667da6" width="400" />
 
 </p>
 ## AI  Protocols 
