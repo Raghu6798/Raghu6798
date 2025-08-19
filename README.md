@@ -150,6 +150,7 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 <p align="center">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="crewAI Logo" width="100"/>
 ## Agentic AI Frameworks 
+</p>
 
 <p align="center">
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="crewAI Logo" width="100"/>
