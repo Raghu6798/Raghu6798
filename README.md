@@ -129,12 +129,15 @@ Vector Databases
 
 <img src="https://www.thestack.technology/content/images/wp-content/uploads/2022/01/a625b8fe-70f2-4a1f-8413-956647916d60.png" alt="crewAI Logo" width="100"/>
 
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+<img src = "https://cdn.brandfetch.io/idZF7NyACs/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1751859560902" alt="crewAI Logo" width="100"/>
 
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+<img src = "https://cdn.brandfetch.io/idCLuo1dQ8/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1718349245373" alt="crewAI Logo" width="100"/>
 
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+<img src = "https://cdn.brandfetch.io/id8U-ebNOv/w/399/h/399/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752658558489" alt="crewAI Logo" width="100"/>
 
+<img src = "https://cdn.brandfetch.io/idCLuo1dQ8/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1718349245373" alt="crewAI Logo" width="100"/>
+
+<img src = "https://cdn.brandfetch.io/idCLuo1dQ8/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1718349245373" alt="crewAI Logo" width="100"/>
 </div>
 
 Graph Databases
@@ -150,13 +153,13 @@ SQL Databases
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
-
+<img src = "https://cdn.brandfetch.io/idsSceG8fK/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1668829260323" alt="crewAI Logo" width="100"/>
 </div>
 
 NoSQL Databases
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+<img src = "https://cdn.brandfetch.io/idFEnp00Rl/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1713885680625" alt="crewAI Logo" width="100"/>
 
 </div>
 </details>
