@@ -133,7 +133,7 @@ Vector Databases
 
 <img src = "https://cdn.brandfetch.io/idCLuo1dQ8/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1718349245373" alt="crewAI Logo" width="100"/>
 
-<img src = "https://cdn.brandfetch.io/id8U-ebNOv/w/399/h/399/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752658558489" alt="crewAI Logo" width="100"/>
+<img src="https://vectorseek.com/wp-content/uploads/2023/09/Pinecone-Icon-Logo-Vector.svg-.png" alt="crewAI Logo" width="100"/>
 
 <img src = "https://cdn.brandfetch.io/idCLuo1dQ8/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1718349245373" alt="crewAI Logo" width="100"/>
 
