@@ -141,7 +141,7 @@ NoSQL Databases
 <summary><h3>🤖 Agentic AI Frameworks</h3></summary>
 
 <p align="center">
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" alt="langchain Logo" width="100"/>
+<img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7q3w1sxuhairxuof1aq3.png" alt="langchain Logo" width="100"/>
 
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="crewAI Logo" width="100"/>
 
