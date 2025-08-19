@@ -126,11 +126,8 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 
 <img src = "https://cdn.brandfetch.io/idnYlnDpTD/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749029934769" alt="crewAI Logo" width="100"/>
-
-
 <img src = "https://cdn.brandfetch.io/id7JRtQEAa/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1748370798145" alt="crewAI Logo" width="100"/>
 
-<img src = "[https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000](https://cdnlogo.com/logo/fastapi_133377.html"><img src="https://static.cdnlogo.com/logos/f/59/fastapi.svg)" alt="crewAI Logo" width="100"/>
 
 
 <img src = "https://static.cdnlogo.com/logos/f/59/fastapi.svg" alt="crewAI Logo" width="100"/>
