@@ -24,14 +24,13 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 
 
 
+<picture> <img align="right" src = "https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2MTA5MTYsIm5iZiI6MTc1NTYxMDYxNiwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODE5VDEzMzY1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyOGViMTUwMmM3NWEzOGEzZDRiODRkZDVlY2QwNTM1ZTIyMTQwNjg5MTY1MDhmZjFmNDRmOTM2ZmQzZTg3MDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GtPy02-xWS8JiEiSdp91DwqxgcEIPUwJG1OM8mzPJCQ" width = "100px"></picture>
 ##  Deep Learning 
 <p align="center"> 
 <img src = "https://cdn.brandfetch.io/ideX2Pd1U1/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1667611240675" alt="crewAI Logo" width="100"/>
 <img src = "https://cdn.brandfetch.io/ideUGX-faX/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1748344250105" alt="crewAI Logo" width="100"/>
 </p>
 </div>
-
-<picture> <img align="right" src = "https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2MTA5MTYsIm5iZiI6MTc1NTYxMDYxNiwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODE5VDEzMzY1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyOGViMTUwMmM3NWEzOGEzZDRiODRkZDVlY2QwNTM1ZTIyMTQwNjg5MTY1MDhmZjFmNDRmOTM2ZmQzZTg3MDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GtPy02-xWS8JiEiSdp91DwqxgcEIPUwJG1OM8mzPJCQ" width = "100px"></picture>
 
 
 ## LLM Providers 
