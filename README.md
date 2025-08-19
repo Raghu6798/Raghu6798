@@ -63,6 +63,9 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 </p>
 </div>
 
+## LLM Local Inference 
+<img src="https://repository-images.githubusercontent.com/612354784/c59e3320-a236-4182-941f-ea3f1a0f50e7" alt="Novita Logo" width="100"/>
+
 ## Embedding Models 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/deepset-ai/haystack-integrations/main/logos/jina.png" alt="Novita Logo" width="100"/>
@@ -70,6 +73,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 <img src="https://cohere.com/_next/image?url=https%3A%2F%2Fcohere-ai.ghost.io%2Fcontent%2Fimages%2F2025%2F04%2FEmbed-4_blog_Hero-1.png&w=1200&q=100" alt="Novita Logo" width="100"/>
 </p> 
 </div>
+
 
 ## Development Tools , IDE or ADE (Agent Development Environment)  
 <p align="center">
@@ -90,7 +94,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 </div>
 
 
-## Frontend </h3> 
+## Frontend
 <p align="center">
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/copilotkit-color.png" alt="Copilotkit Logo" width="100"/>
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gradio-color.png" alt="Gradio Logo" width="100"/>
@@ -98,7 +102,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 <img src="https://cdn.brandfetch.io/id51HhTTuu/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1755393915660"  alt="chainlit Logo" width="100"/>
 </p>
 
- ## Backend Technologies
+ ## Backend
 <p align="center">
 <img src = "https://cdn.brandfetch.io/idnYlnDpTD/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749029934769" alt="crewAI Logo" width="100"/>
 <img src = "https://cdn.brandfetch.io/id7JRtQEAa/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1748370798145" alt="crewAI Logo" width="100"/>
@@ -114,6 +118,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 <img src="https://cdn.brandfetch.io/idZF7NyACs/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1751859560902" alt="crewAI Logo" width="100" height="100" style="object-fit: contain;"/>
 <img src="https://cdn.brandfetch.io/id8U-ebNOv/w/399/h/399/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752658558489" alt="Weaviate Logo" width="100" height="100" style="object-fit: contain;"/> <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2148158644/images/85d1d5-f44-11de-03a0-b8b70657ae6f_pinecone.jpeg" alt="Pinecone Logo" width="100" height="500" style="object-fit: contain;"/> 
 <img src="https://artwork.lfaidata.foundation/projects/milvus/icon/color/milvus-icon-color.png" alt="Pinecone Logo" width="100" height="100" style="object-fit: contain;"/> 
+<img src="https://images.seeklogo.com/logo-png/48/1/chroma-logo-png_seeklogo-482133.png" alt="Chroma" width="100" height="100" style="object-fit: contain;"/> 
 </p>
 
 </div>
