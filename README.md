@@ -85,7 +85,6 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPmNWAtnroI424NFmJBwNtUs6YIL_eVXHjA&s" alt="Novita Logo" width="100"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Novita Logo" width="100"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/colab-color.png" alt="Novita Logo" width="100"/>
-<img src="https://raw.githubusercontent.com/letta-ai/letta/refs/heads/main/assets/Letta-logo-RGB_OffBlackonTransparent_cropped_small.png" alt="Novita Logo" width="100"/>
 <img src="https://github.com/user-attachments/assets/8940fb2b-4648-4628-ab20-37eb38667da6" width="400" />
 
 </p>
@@ -93,14 +92,10 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 
 <p align="center">
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mcp.png" alt="crewAI Logo" width="100"/>
-
 <img src = "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Agent2Agent-Interoperability.2e16d0ba.fill-1200x600.png" alt="Agent2Agent Logo" width="100"/>
-
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/agui.png" alt="crewAI Logo" width="100"/>
 </p>
 </div>
-
-
 
 
 ## Frontend </h3> 
@@ -151,7 +146,9 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 </p>
 </div>
 
-
+## Containerization 
+<p align="center">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="crewAI Logo" width="100"/>
 ## Agentic AI Frameworks 
 
 <p align="center">
