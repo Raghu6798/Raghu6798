@@ -32,7 +32,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 </div>
 
 🛠️ Tech Stack & Expertise
-<details open>
+
 <summary><h3>🤖 Machine Learning & Data Science</h3></summary>
 
 
@@ -49,9 +49,9 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 </div>
-</details>
 
-<details open>
+
+
 <summary><h3>🧠 Deep Learning</h3></summary>
   
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
@@ -59,9 +59,9 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 </div>
-</details>
 
-<details open>
+
+
 <summary><h3>🤖 LLM Providers & Inference</h3></summary>
 
 
@@ -89,9 +89,9 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 
 </div>
-</details>
 
-<details open>
+
+
 <summary><h3>🔗 Protocols & APIs</h3></summary>
 
 
@@ -102,9 +102,9 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/agui.png" alt="crewAI Logo" width="100"/>
 
 </div>
-</details>
 
-<details open>
+
+
 
 <summary><h3> Frontend </h3></summary>
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/copilotkit-color.png" alt="Copilotkit Logo" width="100"/>
@@ -118,9 +118,9 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <img src = "https://static.cdnlogo.com/logos/f/59/fastapi.svg" alt="crewAI Logo" width="100"/>
 
 </div>
-</details>
 
-<details open>
+
+
 <summary><h3>🗄️ Database Technologies</h3></summary>
 
 Vector Databases
@@ -140,10 +140,7 @@ Graph Databases
 SQL Databases
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="crewAI Logo" width="100"/>
-
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 <img src="https://cdn.brandfetch.io/idqOtVPSZn/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752586787585" alt="crewAI Logo" width="100" height="100">
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 <img src = "https://cdn.brandfetch.io/idsSceG8fK/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1668829260323" alt="crewAI Logo" width="100"/>
 </div>
 
@@ -153,9 +150,8 @@ NoSQL Databases
 <img src = "https://cdn.brandfetch.io/idFEnp00Rl/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1713885680625" alt="crewAI Logo" width="100"/>
 
 </div>
-</details>
 
-<details open>
+
 <summary><h3>🤖 Agentic AI Frameworks</h3></summary>
 
 
@@ -174,7 +170,7 @@ NoSQL Databases
 
 
 </div>
-</details>
+
 
 📊 GitHub Analytics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghunandarukulla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
