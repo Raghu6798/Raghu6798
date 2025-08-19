@@ -141,15 +141,13 @@ NoSQL Databases
 <summary><h3>🤖 Agentic AI Frameworks</h3></summary>
 
 <p align="center">
-<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2025/01/crewai-1.webp"alt="langchain Logo" width="100"/>
-
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="crewAI Logo" width="100"/>
 
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="crewAI Logo" width="100"/>
 
 <img src="https://pbs.twimg.com/profile_images/1884966723746435073/x0p8ngPD_400x400.jpg" alt="crewAI Logo" width="100"/>
 
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" alt="langchain Logo" width="100"/>
+<img src="https://google.github.io/adk-docs/assets/agent-development-kit.png" alt="langchain Logo" width="100"/>
 
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" alt="langchain Logo" width="100"/>
 
