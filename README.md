@@ -138,9 +138,12 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 </p>
 </div>
 
-## Containerization 
+## DevOps 
 <p align="center">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="crewAI Logo" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Grafana_loki_logo.png" alt="crewAI Logo" width="100"/>
+<img src="https://prometheus.io/twitter-image.png?b370f6418ef38b42" alt="crewAI Logo" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/500px-Kubernetes_logo_without_workmark.svg.png" alt="crewAI Logo" width="100"/>
 </p>
 
 ## Deployment providers  
