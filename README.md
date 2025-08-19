@@ -194,7 +194,7 @@ NoSQL Databases
 </div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Raghu6798)](https://git.io/streak-stats)
 </div>
 
 🎯 Current Projects & Focus Areas
