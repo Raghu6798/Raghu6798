@@ -68,6 +68,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 <img src="https://repository-images.githubusercontent.com/612354784/c59e3320-a236-4182-941f-ea3f1a0f50e7" alt="Novita Logo" width="100"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" alt="Novita Logo" width="100"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/vllm-color.png"  alt="Novita Logo" width="100"/>
+<img src="https://raw.githubusercontent.com/sgl-project/sglang/main/assets/logo.png" alt="Novita Logo" width="100"/>
 </p> 
 
 ## Embedding Models 
