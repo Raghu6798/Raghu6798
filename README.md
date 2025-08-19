@@ -15,9 +15,9 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 
 <br><br>
 
-🛠 Tech Stack & Expertise
+### Tech Stack & Expertise
 
-<summary><h3>🤖 Machine Learning & Data Science</h3></summary>
+## Machine Learning & Data Science</h3></summary>
 
 <p align="center">
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ebI_BU-S2eSgljZenAKvbz605AWTWhNwzA&s"" alt="crewAI Logo" width="100"/>
