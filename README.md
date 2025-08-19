@@ -76,8 +76,11 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2024/03/nim-inference-microservices-1024x576.png" alt="NVIDIA NIM Logo" width="100"/>
 
 <img src ="https://cdn.brandfetch.io/idfDTLvPCK/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1683095444290" alt="Cohere Logo" width="100"/>
-<img src = "https://cdn.brandfetch.io/idgEzjThpb/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1748416018275" alt="together AI Logo" width="100"/>
-![alt text](https://img.shields.io/badge/Cohere-39457E?style=for-the-badge&logo=cohere&logoColor=white)
+<img src="https://cdn.brandfetch.io/idxygbEPCQ/w/201/h/201/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1668515712972" 
+     alt="Together.ai Logo" 
+     style="width: 50px; height: 50px;">
+
+
 
 
 ![alt text](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
