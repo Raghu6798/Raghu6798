@@ -67,11 +67,11 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <summary><h3>🤖 LLM Providers & Inference</h3></summary>
 
 
-<img src="https://cdn.brandfetch.io/idxygbEPCQ/w/201/h/201/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1668515712972" alt="Groq Logo" width="100"/>
+<img src= "https://cdn.brandfetch.io/idxygbEPCQ/w/201/h/201/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1668515712972" alt="Groq Logo" width="100"/>
 
-<img src="https://cdn.brandfetch.io/id729sSWCY/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1752428038428" alt="Groq Logo" width="100"/>
+<img src= "https://cdn.brandfetch.io/id729sSWCY/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1752428038428" alt="Groq Logo" width="100"/>
 
-<img src="https://developer-blogs.nvidia.com/wp-content/uploads/2024/03/nim-inference-microservices-1024x576.png" alt="NVIDIA NIM Logo" width="100"/>
+<img src= "https://developer-blogs.nvidia.com/wp-content/uploads/2024/03/nim-inference-microservices-1024x576.png" alt="NVIDIA NIM Logo" width="100"/>
 
 <img src ="https://cdn.brandfetch.io/idfDTLvPCK/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1683095444290" alt="Cohere Logo" width="100"/>
 
@@ -84,23 +84,6 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <img src = "https://cdn.brandfetch.io/idR1DDyp8M/w/395/h/395/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1754937941744" alt="LiteLLM Logo" width="100"/>
 
 <img src = "https://cdn.brandfetch.io/idflcFMP-T/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749761212967" alt="OpenRouter Logo" width="100"/>
-</div>
-</details>
-
-<details open>
-<summary><h3>🎨 Generative AI</h3></summary>
-
-
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
-
-
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
-
-
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
-
-
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 </div>
 </details>
@@ -109,8 +92,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <summary><h3>🔗 Protocols & APIs</h3></summary>
 
 
-<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
-
+<img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/mcp.png" alt="crewAI Logo" width="100"/>
 
 <img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
