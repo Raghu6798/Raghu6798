@@ -36,19 +36,17 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <summary><h3>🤖 Machine Learning & Data Science</h3></summary>
 
 
-![alt text](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
-
-![alt text](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
-![alt text](https://img.shields.io/badge/Optuna-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 </div>
 </details>
@@ -57,10 +55,10 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <summary><h3>🧠 Deep Learning</h3></summary>
 
 
-![alt text](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 </div>
 </details>
@@ -94,16 +92,16 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <summary><h3>🎨 Generative AI</h3></summary>
 
 
-![alt text](https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=for-the-badge&logo=stability-ai&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/DALL--E-412991?style=for-the-badge&logo=openai&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/Midjourney-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/ComfyUI-4CAF50?style=for-the-badge&logo=ui&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 </div>
 </details>
@@ -112,13 +110,13 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <summary><h3>🔗 Protocols & APIs</h3></summary>
 
 
-![alt text](https://img.shields.io/badge/Model_Context_Protocol-E10098?style=for-the-badge&logo=protocol&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge&logo=api&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/Agent2Agent-010101?style=for-the-badge&logo=network&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 </div>
 </details>
@@ -127,17 +125,16 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <summary><h3>⚡ Backend Technologies</h3></summary>
 
 
-![alt text](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 </div>
 </details>
 
@@ -146,43 +143,39 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 Vector Databases
 
-![alt text](https://img.shields.io/badge/Pinecone-7C3AED?style=for-the-badge&logo=pinecone&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/Weaviate-FA4D56?style=for-the-badge&logo=weaviate&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white)
-
-
-![alt text](https://img.shields.io/badge/Qdrant-FF6B35?style=for-the-badge&logo=qdrant&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 </div>
 
 Graph Databases
 
-![alt text](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 </div>
 
 SQL Databases
 
-![alt text](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
-
-![alt text](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 </div>
 
 NoSQL Databases
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
-![alt text](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-![alt text](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 </div>
 </details>
@@ -191,19 +184,19 @@ NoSQL Databases
 <summary><h3>🤖 Agentic AI Frameworks</h3></summary>
 
 
-<img src = "https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" alt="langchain Logo" width="100"/>>
+<img src = "https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" alt="langchain Logo" width="100"/>
+
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
+
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
 
-![alt text](https://img.shields.io/badge/CrewAI-4F46E5?style=for-the-badge&logo=crew&logoColor=white)
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
+<img src = "https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1750269891216" alt="crewAI Logo" width="100"/>
 
-![alt text](https://img.shields.io/badge/LlamaIndex-FFB300?style=for-the-badge&logo=llama&logoColor=white)
-
-
-![alt text](https://img.shields.io/badge/Pydantic_AI-0D9488?style=for-the-badge&logo=pydantic&logoColor=white)
-
-
-![alt text](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 </details>
