@@ -15,21 +15,6 @@ It pushes me to forge my own path, to relentlessly hone my skills, and to embrac
 
 <br><br>
 
-🎯 Current Focus
-
-Agentic AI Integration with Developer Workflows
-
-Building intelligent systems that seamlessly integrate AI agents into development processes, enhancing productivity and automating complex workflows.
-
-</div>
-
-
-Agentic AI Integration with Developer Workflows
-
-Building intelligent systems that seamlessly integrate AI agents into development processes, enhancing productivity and automating complex workflows.
-
-</div>
-
 🛠 Tech Stack & Expertise
 
 <summary><h3>🤖 Machine Learning & Data Science</h3></summary>
