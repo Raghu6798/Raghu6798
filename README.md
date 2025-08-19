@@ -66,7 +66,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 <summary><h3>🤖 LLM Providers & Inference</h3></summary>
 
 
-![alt text](https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logo=groq&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="40"/>&nbsp;
 
 
 ![alt text](https://img.shields.io/badge/OpenRouter-1E40AF?style=for-the-badge&logo=openai&logoColor=white)
