@@ -72,8 +72,7 @@ Building intelligent systems that seamlessly integrate AI agents into developmen
 
 <img src="https://brandfetch.com/groq.com?view=library&library=default&collection=logos&asset=idYugcx2il&utm_source=https%253A%252F%252Fbrandfetch.com%252Fgroq.com&utm_medium=copyAction&utm_campaign=brandPageReferral" height="40" alt="Groq Logo"/>
 
-![alt text](https://img.shields.io/badge/OpenRouter-1E40AF?style=for-the-badge&logo=openai&logoColor=white)
-
+![alt text](https://brandfetch.com/groq.com?view=library&library=default&collection=logos&asset=idYugcx2il&utm_source=https%253A%252F%252Fbrandfetch.com%252Fgroq.com&utm_medium=copyAction&utm_campaign=brandPageReferral)
 
 ![alt text](https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge&logo=lightning&logoColor=white)
 
