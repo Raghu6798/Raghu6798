@@ -85,7 +85,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPmNWAtnroI424NFmJBwNtUs6YIL_eVXHjA&s" alt="Novita Logo" width="100"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Novita Logo" width="100"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/colab-color.png" alt="Novita Logo" width="100"/>
-<img src="https://github.com/user-attachments/assets/8940fb2b-4648-4628-ab20-37eb38667da6" width="400" />
+<img src="https://github.com/user-attachments/assets/8940fb2b-4648-4628-ab20-37eb38667da6" width="200" />
 <img src="https://storage.googleapis.com/clean-finder-353810/$62WdaB7R3LRFRYsiRPZHTz063MAo2WwbQWNbv130ruPEekSCsElUo4.jpeg" width="100" />
 </p>
 
