@@ -2,7 +2,7 @@
 <img  align="right" src="https://preview.redd.it/jbcj0uqbihg41.jpg?width=1080&crop=smart&auto=webp&s=7a529d0abe43ab1f3594f59724b2d9072b6ab56b" width = "300">
 <div align="center">
 
-![alt text](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+I'm+Raghu+Nandan+Erukulla!;I+am+an+LLMs+Systems+Architect;Multi-faceted+skillset)
+![alt text](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+I'm+Raghu+Nandan+Erukulla!;I+am+an+LLMs+Systems+Architect;A+Developer+with+a+Multi-faceted+skillset)
 
 </div>
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> </picture><h2>About me</h2>
