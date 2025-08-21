@@ -35,7 +35,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 </div>
 
 
-## LLM Providers 
+## LLM Cloud Providers 
 
 <p align="center">
 <img src= "https://cdn.brandfetch.io/idxygbEPCQ/w/201/h/201/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1668515712972" alt="Groq Logo" width="100"/>
