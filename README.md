@@ -123,7 +123,6 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 <img src="https://cdn.brandfetch.io/idZF7NyACs/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1751859560902" alt="crewAI Logo" width="100" height="100" style="object-fit: contain;"/>
 <img src="https://cdn.brandfetch.io/id8U-ebNOv/w/399/h/399/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752658558489" alt="Weaviate Logo" width="100" height="100" style="object-fit: contain;"/>
 <img src="https://artwork.lfaidata.foundation/projects/milvus/icon/color/milvus-icon-color.png" alt="Pinecone Logo" width="100" height="100" style="object-fit: contain;"/> 
-<img src="https://images.seeklogo.com/logo-png/48/1/chroma-logo-png_seeklogo-482133.png" style="object-fit: contain;"/> 
 </p>
 
 </div>
