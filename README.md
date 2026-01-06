@@ -159,11 +159,11 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 <img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.36/1748364894361/Microsoft.VisualStudio.Services.Icons.Default" alt="crewAI Logo" width="100"/>
 </p>
 
-## Deployment providers  
+## PaaS 
 <p align="center">
 <img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" alt="crewAI Logo" width="100"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/railway.png" alt="crewAI Logo" width="100"/>
-<img src="https://thereadable.co/wp-content/uploads/2024/11/Render_logo_-_Black.jpg" alt="crewAI Logo" width="100"/>
+<img src="https://images.seeklogo.com/logo-png/33/2/netlify-logo-png_seeklogo-338592.png" alt="Netlify" width="100"/>
 </p>
 
 ## Agentic AI Frameworks 
