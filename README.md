@@ -163,7 +163,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 <p align="center">
 <img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" alt="crewAI Logo" width="100"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/railway.png" alt="crewAI Logo" width="100"/>
-<img src="https://images.seeklogo.com/logo-png/33/2/netlify-logo-png_seeklogo-338592.png" alt="Netlify" width="100"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/netlify.svg" width="100"/>
 </p>
 
 ## Agentic AI Frameworks 
