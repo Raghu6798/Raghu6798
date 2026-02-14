@@ -156,6 +156,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/500px-Kubernetes_logo_without_workmark.svg.png" alt="crewAI Logo" width="100"/>
 <img src="https://skyscrapers.eu/wp-content/uploads/2024/06/Opentofu2.png" alt="crewAI Logo" width="100"/>
 <img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.36/1748364894361/Microsoft.VisualStudio.Services.Icons.Default" alt="crewAI Logo" width="100"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9nNZVxrqmSMQnNMDKHdTkNFOxPkYUA0HZUA&s" alt="github actions" width="120"/>
 </p>
 
 ## PaaS 
