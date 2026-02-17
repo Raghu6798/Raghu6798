@@ -167,6 +167,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/railway.png" alt="crewAI Logo" width="100"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/netlify.svg" width="100"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_smTCro9TsZYHYLqiKBt1-Jfmj_OunjkqIg&s" alt="AWS Lambda URL" width="100"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQEUyAx2F_oMjaS2fffJz2OSWwDlwk0o5odA&s" alt="Coolify" width="100"/>
 </p>
 
 ## Agentic AI Frameworks 
