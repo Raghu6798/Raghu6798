@@ -176,7 +176,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="crewAI Logo" width="100"/>
 
-<img src="https://pbs.twimg.com/profile_images/1884966723746435073/x0p8ngPD_400x400.jpg" alt="crewAI Logo" width="100"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5C5BjOZHtL73199G9LDYJKP78utUWRxc0hQ&s" alt="crewAI Logo" width="100"/>
 
 <img src="https://google.github.io/adk-docs/assets/agent-development-kit.png" alt="langchain Logo" width="100"/>
 
