@@ -105,6 +105,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 <img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gradio-color.png" alt="Gradio Logo" width="100"/>
 <img src="https://cdn.brandfetch.io/idiyFucwEQ/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668515715588" alt="Streamlit Logo" width="100"/>
 <img src="https://cdn.brandfetch.io/id51HhTTuu/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1755393915660"  alt="chainlit Logo" width="100"/>
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg"  alt="Nextjs Logo" width="100"/>
 </p>
 
  ## Backend
