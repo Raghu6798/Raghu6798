@@ -20,7 +20,7 @@ I'm driven by a relentless work ethic, constantly pushing to improve despite bat
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kaggle_Logo.svg/2560px-Kaggle_Logo.svg.png"  alt="crewAI Logo" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="crewAI Logo" width="100"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDC8FJzjXfOevnZgr28qDlbMnuXEPvSsX8tw&s" alt="crewAI Logo" width="100"/>
-<img src="https://avatars.githubusercontent.com/u/39938107?v=4" alt="mlflow logo" width="100"/>
+<img src="[https://avatars.githubusercontent.com/u/39938107?v=4](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD439mWEJ61q3bmoODtfgjDS5Vsxc7ordWKg&s)" alt="mlflow logo" width="100"/>
 </p>
 </div>
 
